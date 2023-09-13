@@ -1,5 +1,3 @@
-#IT Mad Libs Generator code
-
 #Unnecessary, but adds more to the game
 question = input("Would you like to play Mad Libs Generator? ")
 print("")
