@@ -1,6 +1,3 @@
-IT Guess the Number hack code
-
-Copy and paste from below (do not include this):
 import random
 #Sets guesses as 1, so I don't add another line of code on the first guess
 guesses = 1
