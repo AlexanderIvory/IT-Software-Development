@@ -1,6 +1,3 @@
-#Please choose a code from one of the files (on the left)
-#Text Based Adventure Game
-
 import time
 
 #Variables
