@@ -45,4 +45,3 @@ while guesses >= 1:
 		if guesses == 0:
 			print("Oh no! You've run out of guesses! Better luck next time!")
 		print("")
-		
